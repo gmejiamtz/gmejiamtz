@@ -7,7 +7,7 @@ Hi! My name is Gary Mejia Martinez, an upcoming graduate student at the Universi
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=white&color=%23EA4335)]((mailto:gerardomejiamtz117@gmail.com))
+[![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=white&color=%23EA4335)](mailto:gerardomejiamtz117@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/gmejiamtz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logoColor=blue&label=G&labelColor=white&color=blue)](https://gmejiamtz.github.io/)
 
